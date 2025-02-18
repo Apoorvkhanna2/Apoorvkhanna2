@@ -15,6 +15,7 @@ Great you come across my profile..
 
   🚀 Keep innovating!  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <body bg-color : black>
 
 <!---
 Apoorvkhanna2/Apoorvkhanna2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
