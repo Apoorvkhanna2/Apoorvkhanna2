@@ -1,6 +1,6 @@
 # 🚀 Apoorv Khanna  
 
-Great you came across my profile!  
+Glad you came across my profile!  
 
 ## 🛠️ Tech Stack  
 - 💻 **Programming**: Python, JavaScript  
